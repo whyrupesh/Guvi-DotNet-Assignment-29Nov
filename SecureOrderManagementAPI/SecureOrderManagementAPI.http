@@ -1,0 +1,6 @@
+@SecureOrderManagementAPI_HostAddress = http://localhost:5157
+
+GET {{SecureOrderManagementAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
