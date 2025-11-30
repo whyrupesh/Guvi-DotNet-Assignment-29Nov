@@ -182,3 +182,4 @@
 /Users/rupesh/root/code/chubb/00_learning_c_sharp/assign_OrderMnagementJWT/SecureOrderManagementAPI/bin/Debug/net9.0/runtimes/win-arm64/native/e_sqlite3.dll
 /Users/rupesh/root/code/chubb/00_learning_c_sharp/assign_OrderMnagementJWT/SecureOrderManagementAPI/bin/Debug/net9.0/runtimes/win-x64/native/e_sqlite3.dll
 /Users/rupesh/root/code/chubb/00_learning_c_sharp/assign_OrderMnagementJWT/SecureOrderManagementAPI/bin/Debug/net9.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/rupesh/root/code/chubb/00_learning_c_sharp/assign_OrderMnagementJWT/SecureOrderManagementAPI/obj/Debug/net9.0/SecureOrderManagementAPI.sourcelink.json
