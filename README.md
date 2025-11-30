@@ -4,7 +4,7 @@ I have used Local SQL (SQLite instead of SQL server as i am doing this on MAC.) 
 
 ## File Structure
 
-![File Structure](Images/Images/image.png)
+![File Structure](Images/image.png)
 
 
 ## Registration
